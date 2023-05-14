@@ -14,6 +14,21 @@
 		4B55783C2A0D28E800D36CCF /* Lead_Dinotis_Week_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B55783B2A0D28E800D36CCF /* Lead_Dinotis_Week_1Tests.swift */; };
 		4B5578462A0D28E800D36CCF /* Lead_Dinotis_Week_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5578452A0D28E800D36CCF /* Lead_Dinotis_Week_1UITests.swift */; };
 		4B5578482A0D28E800D36CCF /* Lead_Dinotis_Week_1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5578472A0D28E800D36CCF /* Lead_Dinotis_Week_1UITestsLaunchTests.swift */; };
+		4B5578572A0D2A9400D36CCF /* Colors+Default.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5578562A0D2A9400D36CCF /* Colors+Default.swift */; };
+		4B5578592A0D2C8000D36CCF /* Image+Default.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5578582A0D2C8000D36CCF /* Image+Default.swift */; };
+		4B55785B2A0D31A400D36CCF /* Fonts+Default.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B55785A2A0D31A400D36CCF /* Fonts+Default.swift */; };
+		4B5578642A0D35B500D36CCF /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B55785E2A0D35B400D36CCF /* Roboto-Medium.ttf */; };
+		4B5578652A0D35B500D36CCF /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B55785F2A0D35B400D36CCF /* Roboto-Regular.ttf */; };
+		4B5578662A0D35B500D36CCF /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B5578602A0D35B400D36CCF /* Roboto-Thin.ttf */; };
+		4B5578672A0D35B500D36CCF /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B5578612A0D35B500D36CCF /* Roboto-Black.ttf */; };
+		4B5578682A0D35B500D36CCF /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B5578622A0D35B500D36CCF /* Roboto-Bold.ttf */; };
+		4B5578692A0D35B500D36CCF /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B5578632A0D35B500D36CCF /* Roboto-Light.ttf */; };
+		4B5578702A0D38D000D36CCF /* Lead-Dinotis-Week-1-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4B55786F2A0D38D000D36CCF /* Lead-Dinotis-Week-1-Info.plist */; };
+		4B994AA32A0FC57B00ECDC7B /* TransactionListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B994AA22A0FC57B00ECDC7B /* TransactionListView.swift */; };
+		4B994AA52A0FC5A600ECDC7B /* TabBarComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B994AA42A0FC5A600ECDC7B /* TabBarComponent.swift */; };
+		4B994AA72A0FC74D00ECDC7B /* TransactionItemComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B994AA62A0FC74D00ECDC7B /* TransactionItemComponent.swift */; };
+		4B994AAA2A0FC83200ECDC7B /* Transaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B994AA92A0FC83200ECDC7B /* Transaction.swift */; };
+		4BF1BFD22A0FD58B00833D23 /* View+Default.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF1BFD12A0FD58B00833D23 /* View+Default.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +59,21 @@
 		4B5578412A0D28E800D36CCF /* Lead Dinotis Week 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lead Dinotis Week 1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5578452A0D28E800D36CCF /* Lead_Dinotis_Week_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lead_Dinotis_Week_1UITests.swift; sourceTree = "<group>"; };
 		4B5578472A0D28E800D36CCF /* Lead_Dinotis_Week_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lead_Dinotis_Week_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4B5578562A0D2A9400D36CCF /* Colors+Default.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Colors+Default.swift"; sourceTree = "<group>"; };
+		4B5578582A0D2C8000D36CCF /* Image+Default.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Image+Default.swift"; sourceTree = "<group>"; };
+		4B55785A2A0D31A400D36CCF /* Fonts+Default.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fonts+Default.swift"; sourceTree = "<group>"; };
+		4B55785E2A0D35B400D36CCF /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Medium.ttf"; path = "../../../../../../../../Downloads/Montserrat,Roboto/Roboto/Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		4B55785F2A0D35B400D36CCF /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Regular.ttf"; path = "../../../../../../../../Downloads/Montserrat,Roboto/Roboto/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		4B5578602A0D35B400D36CCF /* Roboto-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Thin.ttf"; path = "../../../../../../../../Downloads/Montserrat,Roboto/Roboto/Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		4B5578612A0D35B500D36CCF /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Black.ttf"; path = "../../../../../../../../Downloads/Montserrat,Roboto/Roboto/Roboto-Black.ttf"; sourceTree = "<group>"; };
+		4B5578622A0D35B500D36CCF /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Bold.ttf"; path = "../../../../../../../../Downloads/Montserrat,Roboto/Roboto/Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		4B5578632A0D35B500D36CCF /* Roboto-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Roboto-Light.ttf"; path = "../../../../../../../../Downloads/Montserrat,Roboto/Roboto/Roboto-Light.ttf"; sourceTree = "<group>"; };
+		4B55786F2A0D38D000D36CCF /* Lead-Dinotis-Week-1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Lead-Dinotis-Week-1-Info.plist"; sourceTree = "<group>"; };
+		4B994AA22A0FC57B00ECDC7B /* TransactionListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionListView.swift; sourceTree = "<group>"; };
+		4B994AA42A0FC5A600ECDC7B /* TabBarComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarComponent.swift; sourceTree = "<group>"; };
+		4B994AA62A0FC74D00ECDC7B /* TransactionItemComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionItemComponent.swift; sourceTree = "<group>"; };
+		4B994AA92A0FC83200ECDC7B /* Transaction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transaction.swift; sourceTree = "<group>"; };
+		4BF1BFD12A0FD58B00833D23 /* View+Default.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Default.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +104,7 @@
 		4B55781E2A0D28E600D36CCF = {
 			isa = PBXGroup;
 			children = (
+				4B55786F2A0D38D000D36CCF /* Lead-Dinotis-Week-1-Info.plist */,
 				4B5578292A0D28E700D36CCF /* Lead Dinotis Week 1 */,
 				4B55783A2A0D28E800D36CCF /* Lead Dinotis Week 1Tests */,
 				4B5578442A0D28E800D36CCF /* Lead Dinotis Week 1UITests */,
@@ -94,6 +125,8 @@
 		4B5578292A0D28E700D36CCF /* Lead Dinotis Week 1 */ = {
 			isa = PBXGroup;
 			children = (
+				4B5578542A0D2A5E00D36CCF /* Cores */,
+				4B994A9E2A0FC52E00ECDC7B /* Features */,
 				4B55782A2A0D28E700D36CCF /* Lead_Dinotis_Week_1App.swift */,
 				4B55782C2A0D28E700D36CCF /* ContentView.swift */,
 				4B55782E2A0D28E800D36CCF /* Assets.xcassets */,
@@ -125,6 +158,90 @@
 				4B5578472A0D28E800D36CCF /* Lead_Dinotis_Week_1UITestsLaunchTests.swift */,
 			);
 			path = "Lead Dinotis Week 1UITests";
+			sourceTree = "<group>";
+		};
+		4B5578542A0D2A5E00D36CCF /* Cores */ = {
+			isa = PBXGroup;
+			children = (
+				4B55785C2A0D358300D36CCF /* Resources */,
+				4B5578552A0D2A8000D36CCF /* Extensions */,
+			);
+			path = Cores;
+			sourceTree = "<group>";
+		};
+		4B5578552A0D2A8000D36CCF /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				4B5578562A0D2A9400D36CCF /* Colors+Default.swift */,
+				4B5578582A0D2C8000D36CCF /* Image+Default.swift */,
+				4B55785A2A0D31A400D36CCF /* Fonts+Default.swift */,
+				4BF1BFD12A0FD58B00833D23 /* View+Default.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		4B55785C2A0D358300D36CCF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4B55785D2A0D359D00D36CCF /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		4B55785D2A0D359D00D36CCF /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				4B5578612A0D35B500D36CCF /* Roboto-Black.ttf */,
+				4B5578622A0D35B500D36CCF /* Roboto-Bold.ttf */,
+				4B5578632A0D35B500D36CCF /* Roboto-Light.ttf */,
+				4B55785E2A0D35B400D36CCF /* Roboto-Medium.ttf */,
+				4B55785F2A0D35B400D36CCF /* Roboto-Regular.ttf */,
+				4B5578602A0D35B400D36CCF /* Roboto-Thin.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		4B994A9E2A0FC52E00ECDC7B /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				4B994A9F2A0FC53600ECDC7B /* Transactions */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		4B994A9F2A0FC53600ECDC7B /* Transactions */ = {
+			isa = PBXGroup;
+			children = (
+				4B994AA82A0FC80A00ECDC7B /* Models */,
+				4B994AA12A0FC54C00ECDC7B /* Components */,
+				4B994AA02A0FC54700ECDC7B /* Views */,
+			);
+			path = Transactions;
+			sourceTree = "<group>";
+		};
+		4B994AA02A0FC54700ECDC7B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				4B994AA22A0FC57B00ECDC7B /* TransactionListView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		4B994AA12A0FC54C00ECDC7B /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				4B994AA42A0FC5A600ECDC7B /* TabBarComponent.swift */,
+				4B994AA62A0FC74D00ECDC7B /* TransactionItemComponent.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		4B994AA82A0FC80A00ECDC7B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				4B994AA92A0FC83200ECDC7B /* Transaction.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +348,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B5578702A0D38D000D36CCF /* Lead-Dinotis-Week-1-Info.plist in Resources */,
+				4B5578682A0D35B500D36CCF /* Roboto-Bold.ttf in Resources */,
 				4B5578322A0D28E800D36CCF /* Preview Assets.xcassets in Resources */,
 				4B55782F2A0D28E800D36CCF /* Assets.xcassets in Resources */,
+				4B5578652A0D35B500D36CCF /* Roboto-Regular.ttf in Resources */,
+				4B5578662A0D35B500D36CCF /* Roboto-Thin.ttf in Resources */,
+				4B5578642A0D35B500D36CCF /* Roboto-Medium.ttf in Resources */,
+				4B5578692A0D35B500D36CCF /* Roboto-Light.ttf in Resources */,
+				4B5578672A0D35B500D36CCF /* Roboto-Black.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +382,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B55782D2A0D28E700D36CCF /* ContentView.swift in Sources */,
+				4B5578592A0D2C8000D36CCF /* Image+Default.swift in Sources */,
+				4B55785B2A0D31A400D36CCF /* Fonts+Default.swift in Sources */,
+				4B5578572A0D2A9400D36CCF /* Colors+Default.swift in Sources */,
+				4B994AA72A0FC74D00ECDC7B /* TransactionItemComponent.swift in Sources */,
 				4B55782B2A0D28E700D36CCF /* Lead_Dinotis_Week_1App.swift in Sources */,
+				4B994AA52A0FC5A600ECDC7B /* TabBarComponent.swift in Sources */,
+				4B994AA32A0FC57B00ECDC7B /* TransactionListView.swift in Sources */,
+				4BF1BFD22A0FD58B00833D23 /* View+Default.swift in Sources */,
+				4B994AAA2A0FC83200ECDC7B /* Transaction.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,6 +551,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Lead Dinotis Week 1/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Lead-Dinotis-Week-1-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -447,6 +580,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Lead Dinotis Week 1/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Lead-Dinotis-Week-1-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
